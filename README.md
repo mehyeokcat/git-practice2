@@ -2,3 +2,4 @@
 
 -Push test <br>
 -Fetch test
+-Pull test
